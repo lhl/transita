@@ -1,0 +1,59 @@
+<HTML>
+<HEAD>
+
+<!-- 
+title: BART Display Refresher
+version: 1.1
+author: Bay Area Rapid Transit (BART)
+www: http://www.bart.gov
+
+last modified: 04.24.08
+
+revised by: you?
+
+description:
+This file gives third party ETA displays a better chance of recovering from dropped
+connections and other errors. It should work with any modern browser on most platforms.
+It's a proof of concept that practically anyone can create a basic ETA display. Have hange
+ideas? Go to http://www.bart.gov/comments to let us know how you're using this and how
+you've improved it.
+			
+customization:
+Set the "train=" parameter to one of these station variables:
+
+12TH	DELN	ORIN
+16TH	DUBL	PHIL
+19TH	EMBR	PITT
+24TH	FRMT	PLZA
+ASHB	FTVL	POWL
+BALB	GLEN	RICH
+BAYF	HAYW	ROCK
+CAST	LAFY	SANL
+CIVC	LAKE	SBRN
+COLM	MCAR	SFIA
+COLS	MLBR	SHAY
+CONC	MONT	SSAN
+DALY	NBRK	UCTY
+DBRK	NCON	WCRK
+		WOAK
+
+Adjust the browser text size setting or play with the "cs=" parameter to help the page 
+fit your particular monitor.  (It's optimized for a 24-inch widescreen display).
+
+Please don't decrease the refresh interval -- 120 is sufficient and we want ensure 
+that everyone can keep accessing the resource.
+-->
+
+<meta http-equiv="refresh" content="120">
+<TITLE>BART ETAs</TITLE>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</HEAD>
+
+<FRAMESET cols="*" frameborder="0" frameborder="no" border="0" framespacing="0" style="background-color:#000000;">
+
+
+<FRAME src="http://www.bart.gov/dev/display/station_sign.aspx?train=ROCK&cs=2" allowtransparency="true">
+
+</FRAMESET>
+
+</HTML>

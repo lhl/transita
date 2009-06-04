@@ -4,6 +4,16 @@ License: GPLv3
 ===
 A superior public transit app.
 
+It seems like this is the sort of app that should be built as an open-source project.
+
+
+Target Platforms
+===
+* public RESTy API for transit data, prediction proxying
+* Android version (thanks to Bradley Horowitz, see: http://blog.elatable.com/2009/06/and-winner-is.html )
+
+* Eventually targeting: Pure HTML5, Palm Pre, Phone Gap
+
 
 Roadmap
 ===
@@ -40,6 +50,7 @@ This is especially useful if you know that multiple routes can take you to the s
 
 
 v2 (the fun stuff)
+
 Integration w/ Glympse would be interesting. 
 
 Along those lines, the next thing that would be of interest to tackle (v2) is NYC - b/c of the Subway/undergroundness of it all and lack of any "real time" data, the NYC version would be focused on developing crowdsourcing capabilities - ie, when you head into and out of a Subway station, perhaps the ability to mark in/out times and aggregating and processing that data.  I haven't fully thought through the algorithms, but I bet just by when people are leaving at previous stops you can find out if you're looking at a 5m or 25m wait...

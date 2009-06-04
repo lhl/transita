@@ -1,0 +1,32 @@
+Developer License Agreement
+
+The San Francisco Bay Area Rapid Transit District (BART) hereby grants you (Licensee) non-exclusive, limited and revocable rights to use, reproduce, and redistribute BART Data (Data) subject to the following Terms:
+
+
+BART trademarks and copyrighted materials, including any confusingly similar variants, may not be used in association with Data.
+
+
+Data is provided on an "as is" and "as available" basis. BART makes no representations or warranties of any kind, express or implied. BART disclaims all warranties, express or implied, including but not limited to implied warranties of merchantability and fitness for a particular purpose. BART and its employees, officers, directors and agents will not be liable for damages of any kind arising from the use of Data including but not limited to direct, indirect, incidental, punitive and consequential damages.
+
+
+BART reserves the right to alter and/or no longer provide Data at any time without prior notice.
+
+
+BART maintains title, ownership, rights and interest in and to Data.
+
+
+By using BART Data, you agree to be bound by all of the Terms and Conditions set forth in this agreement.
+
+
+Applicable Law
+The laws of the State of California shall govern all rights and obligations under this Agreement, without giving effect to any principles of conflicts of laws.
+
+
+Entire Agreement
+This Agreement constitutes the complete and exclusive agreement between BART and Licensee with respect to the subject matter hereof and supersedes all prior oral or written understandings, communications, or agreements not specifically incorporated herein. BART reserves the right to modify or revoke this agreement at any time.
+
+
+BART
+San Francisco Bay Area Rapid Transit District
+P.O. Box 12688
+Oakland, CA 94604-2688 USA
