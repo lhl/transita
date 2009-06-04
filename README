@@ -1,0 +1,51 @@
+TRANSITA (temp name)
+URL: http://transita.net/
+License: GPLv3
+===
+A superior public transit app.
+
+
+Roadmap
+===
+* Start w/ sfbay since 
+  1) I live here and 
+  2) 511.org gives full data dumps and 
+  3) BART and NextMuni gives full realtime data
+
+v1 should provide for loading of any GTFS data for use w/ transit systems that provide them.
+
+Backend:
+* REST API for data
+* Proxy for realtime data
+
+Routing:
+* Caching or full local DB of stops, routes, tiles
+* Collecting data on favorite routes, stops, destinations
+* Reverse chronological history of searched (maybe even taken) routes
+* Easy reversals or routes, destinations
+
+Route Choosing:
+* visually lay out alternative routes
+* pull in realtime data
+* show more info on arrivals time, transfers
+
+Reminders/Alarms/Affordances:
+* Reminders for last return trip if you're out on the town
+* Alarms for longer commuter trips (geoloc/time elapsed, absolute time)
+* "First time" / "lost" affordances - what are the previous stops, where are you now, etc.
+
+Nearby View:
+* See nearby stops, specifically when they're coming.
+This is especially useful if you know that multiple routes can take you to the same place... (I can take the 26, 14/49, or BART to get back home)
+
+
+v2 (the fun stuff)
+Integration w/ Glympse would be interesting. 
+
+Along those lines, the next thing that would be of interest to tackle (v2) is NYC - b/c of the Subway/undergroundness of it all and lack of any "real time" data, the NYC version would be focused on developing crowdsourcing capabilities - ie, when you head into and out of a Subway station, perhaps the ability to mark in/out times and aggregating and processing that data.  I haven't fully thought through the algorithms, but I bet just by when people are leaving at previous stops you can find out if you're looking at a 5m or 25m wait...
+
+Once this sort of algorithm is perfected, if it'll work in NYC, it'll work (better!) for any city that has aboveground transit (buses) w/ schedules but no exact times...
+
+For some earlier work I've done (this goes back to RFID beaconing and piconet stuff I was playing around w/ back in grad school):
+
+http://wherecamp.pbworks.com/Proximity-and-Relative-Location
