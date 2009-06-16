@@ -1,0 +1,50 @@
+Backend
+===
+* MySQL, process for loading new data
+* REST API for data
+* Parse GTFS
+* Proxy for realtime data
+
+App
+===
+
+Local DB
+(511)
+* Stops
+* Routes
+* Tiles
+
+Usage Tracking
+* Routes
+* Stops (start/stop)
+* Current state/last taken
+  - easy reversal
+
+UI: Searchbox
+* show history
+* type ahead: recent/favorites
+* type ahead: contacts/addresses
+
+Nearby 
+* Stops and Routes nearby
+
+NextMuni Gateway
+* class to talk to and parse nextmuni data
+
+Routing engine
+* via API?
+
+Map View
+* nearby
+* routing
+* alternative routes
+* show realtime data
+
+Reminders
+* setting alarm last return trip reminder
+* set alarm when nearby - geoloc/time elapsed/abs time
+
+
+Nearby View:
+* See nearby stops, specifically when they're coming.
+This is especially useful if you know that multiple routes can take you to the same place... (I can take the 26, 14/49, or BART to get back home)

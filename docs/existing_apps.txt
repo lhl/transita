@@ -1,0 +1,69 @@
+Android
+===
+BART Rider
+
+Caltrain Schedule
+
+DC Metro Map
+
+Portland Transit Lite
+
+NYC Subway
+
+Berlin City
+
+Metro Paris
+
+iTubeStatus
+
+Bus Lister
+
+SeattleBusFinder-Lite
+
+TreKing 4 Free
+
+Transit Alarm
+
+TransLink
+
+Metroide Beta
+
+cab4me
+
+Transport Maps
+
+
+
+iPhone
+===
+Routesy ($2.99)
+* Muni + BART
+- review: http://www.njudahchronicles.com/2009/05/iphone_app_review_routesy_20_is_a_winner.html
+- post: http://odopod.com/blog/inside-design-routesy-2/
+* On-map routing
++ Nice UI
+- Crashes a fair amount...
+
+
+iCommute SF ($2.99)
+- SF Muni only
+* NextMuni
+* Favorite Stops
+* Favorite Routes
+* Nearby Stops
+- No routing engine
+
+iBART Live ($3.99)
++ Nice UI
+
+iMuni ($2.99)
+- SF Muni only
+* NextMuni
+* Nearby Stops
+* Nearby Routes
+* Map (not actually on map, just list?)
+
+http://artypapers.com/caltrain/
+- Caltrain only
+- Web
++ Nice UI 
