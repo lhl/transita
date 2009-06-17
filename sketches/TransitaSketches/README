@@ -1,0 +1,5 @@
+PolygonMap is a misnomer, this doesn't actually draw any polygons yet.
+
+You'll need your own Google Maps API key in the manifest file:
+http://code.google.com/android/maps-api-signup.html
+
