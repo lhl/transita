@@ -6,6 +6,9 @@ A superior public transit app.
 
 It seems like this is the sort of app that should be built as an open-source project.
 
+(It's also surprising that after 2 years no one's done what seems like pretty obvious
+functionality for a transit app, so, no time like the present to get started I guess.)
+
 
 Target Platforms
 ===
@@ -33,6 +36,7 @@ Routing:
 * Collecting data on favorite routes, stops, destinations
 * Reverse chronological history of searched (maybe even taken) routes
 * Easy reversals or routes, destinations
+* Seeing route lines
 
 Route Choosing:
 * visually lay out alternative routes
@@ -43,6 +47,8 @@ Reminders/Alarms/Affordances:
 * Reminders for last return trip if you're out on the town
 * Alarms for longer commuter trips (geoloc/time elapsed, absolute time)
 * "First time" / "lost" affordances - what are the previous stops, where are you now, etc.
+* Good "offline" support (precaching areas, definitely routes)
+* dialing commuter help where available
 
 Nearby View:
 * See nearby stops, specifically when they're coming.
