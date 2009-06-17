@@ -3,3 +3,4 @@ PolygonMap is a misnomer, this doesn't actually draw any polygons yet.
 You'll need your own Google Maps API key in the manifest file:
 http://code.google.com/android/maps-api-signup.html
 
+This git/Eclipse n00b could use some advice on what files to ignore in the repo.
