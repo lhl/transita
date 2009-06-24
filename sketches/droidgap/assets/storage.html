@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>Storage Test</title>
+<script>
+var db;
+
+if (window.openDatabase) {
+  db = openDatabase("NoteTest", "1.0", "HTML5 Database API example", 200000);
+  if (!db) {
+    document.write("couldn't open db...");
+  }
+} else {
+  document.write("no db support???");
+}
+
+</script>
+</head>
+<body>
+<p>Blah blah blah</p>
+
+<textarea id="editor"></textarea>
+<button>save</button>
+</body>
+</html>
